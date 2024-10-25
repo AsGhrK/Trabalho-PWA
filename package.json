@@ -1,0 +1,15 @@
+{
+  "name": "trabalho-de-horario",
+  "version": "1.0.0",
+  "description": "Trabalho de pwa mostrando meus horarios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "author": "Davi Casari da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
