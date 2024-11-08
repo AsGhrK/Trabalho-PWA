@@ -1,5 +1,5 @@
-let cacheName = "my-first-pwa";
-let filesToCache = ["/", "/index.html", "/css/style.css", "/js/main.js"];
+let cacheName = "trabalho-pwa";
+let filesToCache = ["/", "/index.html", "/css/style.css", "/js/mein.js","/horario","/horarioPe"];
 /* inicializando a service worker e fazendo o download do conteúdo da aplicação */
 self.addEventListener("install", (e) => {
     e.waitUntil(
